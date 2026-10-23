@@ -2,5 +2,10 @@
   {
     "package": "ember",
     "url": "https://github.com/jowch/Ember"
+  },
+  {
+    "package": "emberui",
+    "url": "https://github.com/jowch/Ember",
+    "subdir": "inst/emberui"
   }
 ]
